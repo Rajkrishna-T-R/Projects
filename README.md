@@ -7,7 +7,7 @@ These are group projects
 ATM simulator --> Python based ATM simulator with option to show transaction history
 Participants
 ------------
-Rajkrishna T R <\n>
+Rajkrishna T R </n>
 Aaromal B S  <\n>
 Sree Vishnu Vardhan <\n>
 Samuel Cibi <\n>
