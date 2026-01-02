@@ -1,7 +1,24 @@
 This folder contains the college course projects
 
-ATM simulator S1 -- Python based ATM simulator with option to show transaction history
+These are group projects
 
-BOOKAIR S2 -- C based flight booking system
+ Sem 1 
+ -----
+ATM simulator --> Python based ATM simulator with option to show transaction history
+Participants
+------------
+Rajkrishna T R
+Aaromal B S
+Sree Vishnu Vardhan
+Samuel Cibi
+Sisira Thomas
 
+Sem 2
+-----
+BOOKAIR  --> C based flight booking system
+Participants
+------------
+Rajkrishna T R
+Samuel Cibi
+Padma Menon
 
