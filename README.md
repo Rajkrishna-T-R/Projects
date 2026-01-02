@@ -7,18 +7,18 @@ These are group projects
 ATM simulator --> Python based ATM simulator with option to show transaction history
 Participants
 ------------
-Rajkrishna T R
-Aaromal B S
-Sree Vishnu Vardhan
-Samuel Cibi
-Sisira Thomas
+Rajkrishna T R <\n>
+Aaromal B S  <\n>
+Sree Vishnu Vardhan <\n>
+Samuel Cibi <\n>
+Sisira Thomas <\n>
 
 Sem 2
 -----
 BOOKAIR  --> C based flight booking system
 Participants
 ------------
-Rajkrishna T R
-Samuel Cibi
-Padma Menon
+Rajkrishna T R <\n>
+Samuel Cibi <\n>
+Padma Menon <\n>
 
